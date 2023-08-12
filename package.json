@@ -1,0 +1,14 @@
+{
+  "name": "igl",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <picture>     <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/facebook/igl/blob/main/.github/igl-full-color-white.svg?raw=true\">     <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/facebook/igl/blob/main/.github/igl-full-color-black.svg?raw=true\">     <img alt=\"IGL Logo\" src=\".github/igl-full-color-black.svg\" width=\"500\">   </picture>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
